@@ -8,31 +8,55 @@ This document assembles public reference material on the subject into one browsa
 
 ## Contents
 
-1. An Assessment of the Use of a Carbon Fiber Heating Element in Resistance Welding for PPS, PEI, LM-PAEK, and PEKK Thermoplastics
-
+1. An Assessment of the Use of a Carbon Fiber Heating Element in Resistance Welding for PPS, PEI, LM-PAEK, and PEKK Thermop
 2. NASA TM TDEA thermoplastic composite welding
-
 3. Thermoplastic Composite High Rate Fuselage Manufacturing Demonstrator
-
 4. Thermoplastic Aircraft Manufacturing Model
-
 5. Manufacturing and Mechanical Testing of TC1225/LM-PAEK and TC1200/PEEK Thermoplastic Composite Panels
-
 6. Amorphous Bonding for in-Space Welding of Thermoplastic Composite Deployable Structures
-
 7. NASA TM thermoplastic joining resistance induction ultrasonic
-
 8. Manufacture, Characterization, and Fusion Welding of Thermoplastic Composites for Space Applications
-
 9. Finite Element Thermal Model for Ultrasonic Welding of Thermoplastic Composites
-
 10. Innovations in Continuous Ultrasonic Welding of Thermoplastic Composites and Evaluation for Space Applications
-
 11. Thermoplastic Composite Aircraft Manufacturing Model
-
 12. Thermoplastic Composite Lunar Tower Truss Structure: Design Development and Verification Plans
 
+## 1. An Assessment of the Use of a Carbon Fiber Heating Element in Resistance Welding for PPS, PEI, LM-PAEK, and PEKK Thermop
 
-## Source and scope
+Primary source: <https://ntrs.nasa.gov/citations/20250001324>
 
-Every entry corresponds to a page on the archive. The full index, with ordered navigation by subject, is kept at [kubotaresearch.com](https://kubotaresearch.com).
+Photomicrograph Results Figure 52 – LM-PAEK 3K EOFPO Photomicrograph Figure 53 - LM-PAEK 3K NFPO Photomicrograph Figure 54 - LM-PAEK 1K EOFPO Photomicrograph Figure 55 - LM-PAEK 1K NFPO Photomicrograph 51 6.2 PEI SLS Photomicrograph Results Figure 56 – PEI SLS Photomicrograph 6.3 PEKK SLS Photomicrograph Results Figure 57 – PEKK SLS Photomicrograph 6.4 PPS SLS Photomicrograph Results Figure 58 – PPS SLS Photomicrograph 6.5 LM-PAEK DCB Photomicrograph Results Figure 59 – LM-PAEK DCB Photomicrograph 52 6.6 PEI DCB Photomicrograph Results Figure 60 – PEI DCB Photomicrograph Results 6.7 PPS DCB Photomicrograph Results Figure 61 – PPS DCB Photomicrograph Results 53 7.0 Differential Scanning Calorimetry DSC data is important in thermoplastic welding as it provides valuable insights into the thermal behavior and properties of the materials involved. This information aids in optimizing welding
+
+PEKK SLS NDI Results 1-ab 1-cd 1-ef 1-gh 1-ij 1-kl 1-mn 1-op 1-qr 1-st 44 Figure 47 – PEKK SLS NDI Results 3-lm 2-tu 45 5.4 PPS SLS NDI Results 1-ab 1-cd 1-ef 1-gh 1-ij 1-kl 1-mn 1-op 1-qr 1-st 46 Figure 48 – PPS SLS NDI Results 2-ab 2-cd 47 5.5 LM-PAEK DCB NDI Results Figure 49 – LM-PAEK DCB NDI Results 1-ab 1-cd 1-ef 1-gh 1-ij 2-ab 48 5.6 PEI DCB NDI Results Figure 50 – PEI DCB NDI Results 1-ab 1-cd 1-ef 1-gh 1-ij 2-ab 49 5.7 PPS NDI Results Figure 51 – PPS DCB NDI Results 1-ab 1-cd 1-ef 1-gh 1-ij 2-ab 50 6.0 Photomicrographs Photomicrographs are essential in thermoplastic welding as they enable visual inspection, defect analysis and process optimization. One photomicrograph specimen was manufactured from each process. These results can be seen below. 6.1 LM-PAEK SLS Photomicrograph Results Figure 52 – LM-PAEK 3K EOFPO Photomicrograph Figure 53 - LM-PAEK 3K NFPO Photomicrograph Figure
+
+## 2. NASA TM TDEA thermoplastic composite welding
+
+Primary source: <https://ntrs.nasa.gov/citations/20250008644>
+
+amping to the electrodes. The specimens are loaded in the 𝑦- direction. In (a) and (c), the 𝑦-direction tows are removed. Figure 7. LSS and representative photomicrographs of SLS specimens resistance welded with different heating element configurations shown in Figure 6. The LSS error bars show min and max values with n=3 for (b)–(c) and the COV is indicated by the diamond markers. The LSS results, Figure 7, show removing the tows parallel to the loading direction, cases (a) and (c), led to higher strength joints. It was also observed that these heating elements produced smoother temperature and resistance (a) (b) (c) (d) 𝑥 𝑦 1 in. 1 in. 0 5 10 15 20 0 1 2 3 4 5 6 1 2 3 4 LSS [ksi] (a) (b) (c) (d) (a) (b) (c) (d) COV [%] 10 histories. However, it is interesting to observe that the scatter tends to be higher. Little difference in LSS is noticed comparing the heating elements with 3K and 1
+
+ng bond problem, common in adhesive bonding). Further research is needed to understand the weld consolidation process and the relationship between LSS and welding parameters. Figure 11. Two examples of XRCT results showing plan views of the weld interface (minimum projection between adherends) and side views at a location through the width. The blue arrow points to adherend delamination and the red arrow points to a gap between the adherends, which is showing the same information as the viewed in the plan view (labeled ‘not welded’). TDEA-441-02-SLS-AB, LSS = 0.2 ksi TDEA-441-02-SLS-AQ, LSS = 2.5 ksi Not welded 15 Figure 12. LSS correlation with welded area measured from posttest failure surface images and three examples of failure surface images. The red dashed box shows the 1 in. x 1.5 in. overlap area. The orange dotted lines identify the regions where the material was successfully we
+
+a. Ultrasonic welding of T700/LM-PAEK was down-selected for the TSPD application prior to having the weldability study data due to project schedule constraints. To facilitate this welding scale-up, several iterations of weld recipe optimization were undertaken at Agile Ultrasonics with the goal of achieving fully consolidated and strong welds. These welds were with one -inch-wide specimens except where noted otherwise. Although autoclave consolidate d baseline data was not available, f or T700/LM -PAEK 16 -ply QI adherends, a strong weld is assumed to have an LSS ≥ 5 ksi (see Figure 7 and Figure 8). LSS results for trials (1–5) conducted using 16-ply QI substrates are summarized in Figure 10a. Trial 1 shows the results from weldability study process development corresponding to the best recipe, which was subsequently applied in the weldability study. Trial 2 is the result from the weldab
+
+ss was complete, the panel was consolidated using an autoclave with 500 psi applied pressure. Cycles with lower pressure (< 250 psi) were tried but lead to high porosity within the laminate plates. The resistance and ultrasonic welding procedures mostly followed the approaches described in Section 2.1. During initial resistance welding process development, adhesive-type failure (decohesion at the welded interface) was observed. To prevent adhesive failure, the faying surfaces were hand sanded and the applied pressure during welding was increased to 560 psi from 100 psi. With this updated procedure, failure surfaces showed evidence of cohesive failure mode (failure within the layers) and fiber tear, indicating a higher strength weld. This improved process was used for all tested and inspected weld data reported herein. Resin films were used on either side of the heating element. The LSS d
+
+deconsolidation could include reversing the order of the adherends so the low-porosity AFP material faces the sonotrode, a separate post -print consolidation step for the AM adherend prior to welding, or selecting a different weld approach such as resistance welding. It is interesting to compare the AFP-to-AFP ultrasonic weld results with the results obtained in the weldability study. Here a LSS of 5.48 ksi is obtained whereas in the weldability study with LM -PAEK, the LSS is 1.2 ksi. The difference is likely attributable to the differences in welding setup , which were numerous because the welds were completed by two different organizations each with their own custom welding configurations. However, it is noteworthy that in [20], 1.9 ksi and 5.3 ksi are reported for LSS with no energy director and with a mesh energy director, respectively. This result, consistent with the results prese
+
+0.00% AS4/PEEK 0.07% 0.06% 0.00% AS4/PEI 0.13% 0.11% 0.00% T700/LM-PAEK 0.10% 0.06% 0.00% T700/LM-PAEK prepreg 0.09% 0.06% 0.01% Table 4. TDEA CTE test results, −275 °F to 68 °F . Configuration Average CTE [ppm/K] AS4/PEEK, 0° 0.82 AS4/PEEK, 90° 27.6 T700/LM-PAEK, 0° 0.47 T700/LM-PAEK, 90° 28.0 22 Table 5. Summary of coupon tests evaluated at room temperature and cold temperature (n=6). Label Description ASTM Standard Layup Dimensions (in.) 0T Lamina Tension D3039 [0]6 10.0 x 0.5 90T Lamina Tension D3039 [90]8 7.0 x 1.0 0C Lamina Compression D6641 [0]14 5.50 x 0.5 90C Lamina Compression D6641 [90]14 5.50 x 0.5 IPS In-plane Shear D3518 [+45/–45]4s 10.0 x 1.0 UNT Unnotched Laminate Tension D3039 [45/0/–45/90]2s 10.0 x 1.0 UNC Unnotched Laminate Compression D6641 [45/0/–45/90]3s 5.50 x 0.5 OHT Open Hole Tension D5766 [45/0/–45/90]2s 12.0 x 1.5 OHC Open Hole Compression D6484 [45/0/–45/90]3
+
+esin Weight Percent (%) Ply Thickness in. (mm) LM- PAEK T700GC TC1225 Toray 0.475(145) 34 0.0054 (0.137) PEEK AS4 TC1200 Toray 0.475 (145) 34 0.0056 (0.142) PPS AS4 TC1100 Toray 0.724 (221) 34 0.0083 (0.210) PEI AS4 APC/TC1000 Toray/Solvay* 0.475 (145) 32 0.0052 (0.132) PEKK M30S M30S/PEKK Osaka 0.121 (37) 37 0.0014 (0.036) * Solvay material was used for most of the specimens. Toray material was used for the resu lts presented in Sections 2.2.1 and 2.2.2. The key findings from the weldability study include observations and characterization of common welding defects in heat affected zone (HAZ), quantification of apparent LSS and the associated coefficient of variation (COV), and improved understanding of the role of edge effects in the welding methods and their impact on the results. A wide range of LSS were found, as shown in Figure 3. Overall, resistance welds were the strongest and ult
+
+HAZ may be more critical. 0 1 2 3 4 5 0 0.2 0.4 0.6 0.8 1 1.2 1.4 Lap shear strength (ksi) Weld area (in2) TDEA-430-01-SLS-G TDEA-430-01-SLS-D TDEA-430-01-SLS-K G D K 16 from posttest failure surfaces. Overall, the target 4.5 in2 weld area was not achieved in any specimen, and consequently the joint strengths were relatively low. The lack of complete welding was attributed to inadequate clamping and fixturing. The primary outcome of these weld setback specimens was to identify a welding recipe based on the LSS that would be used for the TSPD sub -element welds. However, it turned out that different welding parameters were required for the TSPD sub-element welds, likely due to differences in fixturing. Figure 13. Weld setback specimen configuration, excerpt from drawing TDEA-275. Item 4 identifies the 2.25 in. x 2.25 in. target weld area. All dimensions are in inches. 17 Figure 14. Weld
+
+28, where the displacement data are smoothed with a 13 -period moving average to help reduce the noise. The results show the specimens welded by Agile are slightly stiffer, perhaps due to better alignment associated with the more elaborate weld tooling. In all cases, some nonlinearity is evident in the structural response by around 30 kips. In several cases , audible damage events occurred and so the observed nonlinearity may be associated with subcritical damage propagation in the joints. Figure 26. TSPD subelement load-displacement response. Test results are truncated at the point where catastrophic failure and abrupt load drop occurred. 2x DLL (33.4 kips) Interlaminar fracture toughness (42.6 kips) 409-A 409-B 409-C 409-D 409-E 409-F Pretest analysis 34 Figure 27. Axial strain contours from test and analysis results at 2x DLL. Figure 28. Average displacement across the joint, showing
+
+ubstrates to use for process development. The number of substrates available for each welding method and material system varied but was essentially the minimum number requested by the welding organization. After process development, approximately 10 welds were completed with the same welding recipe for each material and welding method . The welds were evaluated by nondestructive evaluation (NDE) including ultrasound and X -ray computed tomography (XRCT), mechanical test, and differential scanning calorimetry (DSC). Lap-shear strength s (LSS) are reported from the mechanical tests assuming a bond area of 1 in2 except where noted otherwise. 5 Table 1. Material systems used in the weldability study. Resin Fiber Material Designation Vendor Fiber Areal Weight oz/ft2 (g/m2) Resin Weight Percent (%) Ply Thickness in. (mm) LM- PAEK T700GC TC1225 Toray 0.475(145) 34 0.0054 (0.137) PEEK AS4 TC1200
+
+## Service pages maintained with this archive
+
+The reference notes above support the production work documented on the shop's own service pages:
+
+* **[Thermoplastic Welding Joint Design — Specification Guide](https://kubotaresearch.com/services/thermoplastic-welding-joint-design.html)** — Specification guide to thermoplastic welding joint design: butt, lap, tongue-and-groove, and T-joints, energy directors, material compatibility, and weld s
+* **[Welding Process Validation — Specification Guide](https://kubotaresearch.com/services/welding-process-validation.html)** — Guide to thermoplastic welding process validation: process window, parameter recording, DOE, destructive and non-destructive testing, and process records.
+* **[Plastic Weld Quality Inspection — Specification Guide](https://kubotaresearch.com/services/plastic-weld-quality-inspection.html)** — Plastic weld quality inspection guide: visual indicators, flash and collapse measurement, peel and tensile coupons, ultrasonic testing, and failure modes t
